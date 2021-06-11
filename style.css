@@ -458,6 +458,7 @@ i.fa.fa-whatsapp{
   }
   .input-box-error small {
       visibility: visible;
+      color: red;
   }
   .input-box-error input {
     border-color: var(--error-color);
