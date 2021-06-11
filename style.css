@@ -487,6 +487,9 @@ i.fa.fa-whatsapp{
    .container{
     max-width: 100%;
   }
+  .input-box-error input{
+    width: 223%;
+  }
   form .user-details .input-box{
       margin-bottom: 15px;
       width: 100%;
@@ -502,6 +505,10 @@ i.fa.fa-whatsapp{
     .container .content .category{
       flex-direction: column;
     }
+    .input-box-error input{
+      width: 223%;
+    }
+  }
   }
   #error{
     color: red;
